@@ -1,0 +1,7 @@
+The goal of the game is to fill in the field.
+The first rectangle of the player is placed in the corner, 
+the opponent's rectangle is placed in the opposite one.
+The rectangle should be attached to your existing territory.
+If you can't make the generated move, you skip it.
+The game is considered over after all players skip a turn in a row.
+The winner is the one with a large territory.
